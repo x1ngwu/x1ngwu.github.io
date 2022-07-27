@@ -88,5 +88,5 @@ permalink: posts/:slug
 # Gitalk settings
 comment_gitalk_clientId: 8e40d439578315b13fb4
 comment_gitalk_clientSecret: 6a308bde3d52397c4713300dee92522129c59f51
-comment_gitalk_repo: https://x1ngwu.github.io/
+comment_gitalk_repo: x1ngwu.github.io
 github_username: x1ngwu
