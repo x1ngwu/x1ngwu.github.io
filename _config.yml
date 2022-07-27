@@ -10,6 +10,7 @@ url: https://x1ngwu.github.io/
 
 about_enabled: true # Change to true if you wish to show an icon in the navigation that redirects to the about page
 discus_identifier: # chalk-1 # Add your Disqus identifier
+use_gitalk: true # 
 ga_analytics: # UA-28631876-6 # Add your GA Tracking Id
 local_fonts: false # Change to true if you wish to use local fonts
 rss_enabled: true # Change to false if not
@@ -82,3 +83,10 @@ plugins:
   - jemoji
 paginate_path: /posts/page/:num/
 permalink: posts/:slug
+
+
+# Gitalk settings
+comment_gitalk_clientId: 8e40d439578315b13fb4
+comment_gitalk_clientSecret: 6a308bde3d52397c4713300dee92522129c59f51
+comment_gitalk_repo: https://x1ngwu.github.io/
+github_username: x1ngwu
