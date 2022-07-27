@@ -89,5 +89,5 @@ permalink: posts/:slug
 comment_gitalk_clientId: 8e40d439578315b13fb4
 comment_gitalk_clientSecret: 6a308bde3d52397c4713300dee92522129c59f51
 # check: https://github.com/Molunerfinn/hexo-theme-melody/issues/130
-comment_gitalk_repo: https://github.com/x1ngwu/x1ngwu.github.io
+comment_gitalk_repo: https://github.com/x1ngwu/x1ngwu.github.io.git
 github_username: x1ngwu
