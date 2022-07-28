@@ -10,3 +10,6 @@ _site/
 .bundle/
 vendor/
 
+# Ignore auto comment init
+init_comment.rb
+
