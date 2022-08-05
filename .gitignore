@@ -12,4 +12,6 @@ vendor/
 
 # Ignore auto comment init
 init_comment.rb
+*.py
+*.ipynb
 
